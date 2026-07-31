@@ -31,7 +31,7 @@ PyTorch and evaluated using Dice score, IoU, and pixel accuracy.
 
   Class           Dice
   ------------ -------
-  Background     0.996
+  Class 0        0.996
   Class 1        0.174
   Class 2        0.777
   Class 3        0.707
