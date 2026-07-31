@@ -52,3 +52,7 @@ Brain-Tissue-Segmentation/
 -   The dataset contains only 20 MRI volumes, limiting generalisation.
 -   Class imbalance results in lower segmentation performance for Class
     1.
+    
+## Future Work
+- Extend the model to 3D U-Net.
+- Train on larger public MRI datasets.
